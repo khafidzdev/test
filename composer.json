@@ -1,0 +1,12 @@
+{
+  "name": "marketplace/ci3-shopee-demo",
+  "description": "Simple multi-vendor marketplace like Shopee on CodeIgniter 3",
+  "type": "project",
+  "require": {
+    "php": ">=7.2.5",
+    "codeigniter/framework": "^3.1"
+  },
+  "scripts": {
+    "serve": "php -S localhost:8000 server.php"
+  }
+}
